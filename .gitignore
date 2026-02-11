@@ -1,0 +1,12 @@
+#ignore temp Tableau files
+*~
+
+#IGNORE PACKAGED WORKBOOKS
+*.twbx
+
+#IGNORE DATA EXTRACTS
+*.hyper
+*.tde
+
+#IGNORE SYSTEM FILES
+.DS_Store
